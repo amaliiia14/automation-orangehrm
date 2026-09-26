@@ -1,0 +1,14 @@
+{
+  "firstName": "Edward",
+  "middleName": "Al",
+  "lastName": "Smith",
+  "validEmail": "edward@gmail.com",
+  "invalidEmail": "edwardgmail.com",
+  "document": {
+    "invalidFormat": "resume.xlsx",
+    "invalidSize": "resume-large.pdf"
+  },
+  "vacancyName": "QA Automation Tester",
+  "jobTitle": "QA Engineer",
+  "hiringManager": "Rahul"
+}

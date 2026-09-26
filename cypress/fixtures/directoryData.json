@@ -1,0 +1,12 @@
+{
+  "validEmployename":"Rebecca",
+  "invalidEmployename":"Edward Smith",
+  "jobTitle":{
+    "jobTitle1":"QA Engineer",
+    "jobTitle2":"Software Engineer"
+  },
+  "location":{
+    "location1":"Texas R&D",
+    "location2":"New York Sales Office"
+  }
+}
