@@ -14,16 +14,6 @@ Pengujian otomatis mencakup tiga fitur berikut:
 - **Directory:** Menguji fungsionalitas direktori karyawan dan informasi karyawan.
 - **Recruitment:** Menguji fungsionalitas recruitment, termasuk informasi kandidat dan lowongan pekerjaan.
 
-## Tools dan Teknologi
-
-- **Cypress:** Framework untuk UI test automation.
-- **JavaScript:** Bahasa pemrograman yang digunakan dalam penulisan automated test.
-- **Page Object Model (POM):** Mengorganisasi elemen dan interaksi halaman.
-- **Fixtures:** Mengelola data pengujian.
-- **Selectors:** Mengidentifikasi elemen pada halaman web.
-- **Assertions:** Memvalidasi hasil aktual dengan hasil yang diharapkan.
-- **Intercept:** Memantau dan menangani request jaringan selama pengujian.
-
 ## Implementasi Pengujian
 
 Dalam proyek ini, beberapa pendekatan diterapkan untuk mendukung proses automation testing, yaitu:
